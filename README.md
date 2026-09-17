@@ -35,6 +35,8 @@
 * **Problem Statement Title:** Strengthening market linkages and price discovery for farmers
 * **Theme / Category:** Agriculture, FoodTech & Rural Development
 * **Ministry / Organization:** Government Of Maharashtra
+* **Presentation Video:** https://youtu.be/P1ILZNerQ1U?is=41uO8J3iQAC7acn5
+
 
 #### PS#2
 
