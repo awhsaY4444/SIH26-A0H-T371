@@ -9,15 +9,15 @@
 ### Team Details
 #### **Team Name** Strike Out <br/>
 #### Team Members
-|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
-|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |     Yashwanthi B K      |      CB.SC.U4CYS24161  |       Female    |         CYS                     |  
-|    Member 2     |     Bhavadarini M       |      CB.SC.U4CYS24111  |       Female    |         CYS                     |  
-|    Member 3     |     Niranjana G         |      CB.SC.U4CYS24134  |       Female    |         CYS                     |  
-|    Member 4     |     Yaswin Illakkiya    |      CB.SC.U4CYS24162  |       Female    |         CYS                     |   
-|    Member 5     |     Jhanavi M           |      CB.SC.U4CYS24022  |       Female    |         CYS                     |  
-|    Member 6     |     Deepa K             |      CB.SC.U4CYS24013  |       Female    |         CYS                     |   
 
+| Role         | 👤 Name              | 🎓 Roll Number       | ⚧️ Gender | 🏫 Department / Programme   | Caste     | Disability     |
+|:-------------|:---------------------|:----------------------|:----------|:-----------------------------|:----------|:---------------|
+| Team Leader  | Yashwanthi B K       | CB.SC.U4CYS24161      | Female    | CYS                          | BC        | None           |
+| Member 2     | Bhavadarini M        | CB.SC.U4CYS24111      | Female    | CYS                          | Others    | None           |
+| Member 3     | Niranjana G          | CB.SC.U4CYS24134      | Female    | CYS                          | Others    | None           |
+| Member 4     | Yaswin Illakkiya     | CB.SC.U4CYS24162      | Female    | CYS                          | Others    | None           |
+| Member 5     | Jhanavi M            | CB.SC.U4CYS24022      | Female    | CYS                          | Others    | None           |
+| Member 6     | Deepa K              | CB.SC.U4CYS24013      | Female    | CYS                          | Others    | None           |
 #### Mentor Details
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
