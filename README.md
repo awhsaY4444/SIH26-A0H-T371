@@ -13,11 +13,11 @@
 | Role         | 👤 Name              | 🎓 Roll Number       | ⚧️ Gender | 🏫 Department / Programme   | Caste     | Disability     |
 |:-------------|:---------------------|:----------------------|:----------|:-----------------------------|:----------|:---------------|
 | Team Leader  | Yashwanthi B K       | CB.SC.U4CYS24161      | Female    | CYS                          | BC        | None           |
-| Member 2     | Bhavadarini M        | CB.SC.U4CYS24111      | Female    | CYS                          | Others    | None           |
-| Member 3     | Niranjana G          | CB.SC.U4CYS24134      | Female    | CYS                          | Others    | None           |
-| Member 4     | Yaswin Illakkiya     | CB.SC.U4CYS24162      | Female    | CYS                          | Others    | None           |
-| Member 5     | Jhanavi M            | CB.SC.U4CYS24022      | Female    | CYS                          | Others    | None           |
-| Member 6     | Deepa K              | CB.SC.U4CYS24013      | Female    | CYS                          | Others    | None           |
+| Member 2     | Bhavadarini M        | CB.SC.U4CYS24111      | Female    | CYS                          | SC        | None           |
+| Member 3     | Niranjana G          | CB.SC.U4CYS24134      | Female    | CYS                          | General   | None           |
+| Member 4     | Yaswin Illakkiya     | CB.SC.U4CYS24162      | Female    | CYS                          | SC        | None           |
+| Member 5     | Jhanavi M            | CB.SC.U4CYS24022      | Female    | CYS                          | FC        | None           |
+| Member 6     | Deepa K              | CB.SC.U4CYS24013      | Female    | CYS                          | SC        | None           |
 #### Mentor Details
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
